@@ -10,29 +10,32 @@ date: 2022-07-01
 
 Millones de dispositivos interconectados por medio de una red de computadoras.
 
-##### Hosts: Sistemas Finales
-##### Corren aplicaciones en el "borde" de la red
+#### Hosts: Sistemas Finales
 
-##### Conmutadores de paquetes
+#### Corren aplicaciones en el "borde" de la red
+
+#### Conmutadores de paquetes
 
 Reenvían paquetes de datos entre los dispositivos.
 
 - Routers
 - Switches
 
-##### Enlaces de comunicación
+#### Enlaces de comunicación
 
 - Fibra óptica, cables de cobre, radio, satélite
 - Tasa de transmisión: ancho de banda.
 
-##### Redes
+#### Redes
 
 - Colección de dispositivos, routers y enlaces: administradas por una organización.
 
-##### Internet: red de redes
+#### Internet: red de redes
+
 - ISPs interconectados
 
-##### Protocolos y Estándares
+#### Protocolos y Estándares
+
 - Definen como se envían y reciben los mensajes.
 - RFC: Request for Comments 
 - IETF: Internet Engineering Task Force 
@@ -58,10 +61,11 @@ Los protocolos definen tanto el formato y el orden de los mensajes intercambiado
 ### La estructura de Internet
 
 #### El borde de la red
+
 - Hosts: clientes y servidores
 - Servidores: típicamente en data centers
 
-####  Redes de acceso y medios físicos
+#### Redes de acceso y medios físicos
 
 ### ¿Cómo accedemos a Internet? 
 
@@ -71,26 +75,28 @@ Multiplexación por División de Frecuencia (FDM): se divide la banda de frecuen
 
 #### Redes de Acceso
 
-##### Cable TV
+#### Cable TV
+
 - DESCARGA: 40Mb/s - 1.2Gb/s
 - SUBIDA: 30Mb/s - 100Mb/s
 
-##### DSL
+#### DSL
+
 - DESCARGA: 24Mb/s - 52Mb/s
 - SUBIDA: 3.5Mb/s - 16Mb/s
 
-##### Redes Domésticas
+#### Redes Domésticas
 
 NAT: Network Address Translation
 
-##### Redes Corporativas
+#### Redes Corporativas
 
 - Universidades, empresas, etc.
 - Mezcla de tecnologías cableadas e inalámbricas conectando switches y routers.
     - Ethernet
     - WiFi
 
-##### Data centers
+#### Data centers
 - Interconexión de cientos/miles de servidores a altas velocidades.
 
 #### El núcleo de internet
