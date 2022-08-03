@@ -36,7 +36,7 @@ Reenvían paquetes de datos entre los dispositivos.
 - Definen como se envían y reciben los mensajes.
 - RFC: Request for Comments 
 - IETF: Internet Engineering Task Force 
-- Ejemplos: [HTTP](https://datatracker.ietf.org/doc/html/rfc2616), [TCP](https://datatracker.ietf.org/doc/html/rfc793), [UDP](https://datatracker.ietf.org/doc/html/rfc768), [DNS](https://datatracker.ietf.org/doc/html/rfc1035), [IPv4](https://datatracker.ietf.org/doc/html/rfc791), [IPv6](https://datatracker.ietf.org/doc/html/rfc2460)
+- Ejemplos: [HTTP](https://datatracker.ietf.org/doc/html/rfc2616), [TCP](https://datatracker.ietf.org/doc/html/rfc793), [UDP](https://datatracker.ietf.org/doc/html/rfc768), [DNS](https://datatracker.ietf.org/doc/html/rfc1035), [IPv4](https://datatracker.ietf.org/doc/html/rfc791), [IPv6](https://datatracker.ietf.org/doc/html/rfc2460), [ARP](https://datatracker.ietf.org/doc/html/rfc826), [DHCP](https://datatracker.ietf.org/doc/html/rfc2131)
 
 ### Internet como proveedor de servicios
 
@@ -95,3 +95,4 @@ NAT: Network Address Translation
 
 #### El núcleo de internet
 
+¿Que es el internet?
