@@ -11,3 +11,4 @@
 <!-- /code_chunk_output -->
 
 <!-- @import "clases/clase1.md" -->
+<!-- @import "clases/clase2.md" -->
