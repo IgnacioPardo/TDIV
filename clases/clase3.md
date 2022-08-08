@@ -78,3 +78,27 @@ Puerto 8080: Telnet
 
 - Transporte no confiable y sin conexión
 - No ofrece control de flujo
+
+### Protocolo HTTP
+
+Utiliza TPC
+
+- El cliente abre un socket e inicia una conexión TCP al puerto 80 del server
+- El server acepta la conexión
+- Se intercambian mensajes HTTP entre el browser y el server
+- El cliente cierra la conexión
+
+#### HTTP es stateless
+
+- El servidor no mantiene información de requests anteriores
+
+### Conexiones HTTP
+
+- Conexión persistente: el cliente mantiene la conexión hasta que se cierra
+    - Establecimiento de conexión TCP
+    - Envío de a lo sumo un objeto
+    - Cierre de conexión TCP
+- Conexión no persistente: el cliente cierra la conexión
+    - Establecimiento de conexión TCP
+    - Envío de multiples objetos
+    - Cierre de conexión TCP
