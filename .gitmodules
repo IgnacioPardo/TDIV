@@ -1,0 +1,3 @@
+[submodule "SocketWebServer"]
+	path = SocketWebServer
+	url = https://github.com/IgnacioPardo/SocketWebServer
