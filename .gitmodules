@@ -1,3 +1,6 @@
 [submodule "SocketWebServer"]
 	path = SocketWebServer
 	url = https://github.com/IgnacioPardo/SocketWebServer
+[submodule "TallerDHCP"]
+	path = TallerDHCP
+	url = https://github.com/IgnacioPardo/TallerDHCP
